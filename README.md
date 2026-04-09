@@ -1,3 +1,5 @@
+Windows .exe coming soon, for rightnow, Python 3.11.7 and pip install required.
+
 This app requires flask and pillow be installed with pip or with "python -m pip install flask pillow" from command prompt, this app was written in python version 3.11.7.
 I recommend installing this in C:\Python\CloneHeroCatalogue for best results.
 
