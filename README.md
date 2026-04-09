@@ -1,7 +1,7 @@
-Windows .exe coming soon, for rightnow, Python 3.11.7 and pip install required.
+Windows .exe file does not require any dependancies, they are all packed into the .exe file.
 
-This app requires flask and pillow be installed with pip or with "python -m pip install flask pillow" from command prompt, this app was written in python version 3.11.7.
-I recommend installing this in C:\Python\CloneHeroCatalogue for best results.
+Running this with Python directly will require flask and pillow be installed with pip or with "python -m pip install flask pillow" from command prompt, this app was written in python version 3.11.7.
+I recommend installing this in C:\Python\CloneHeroCatalogue for best results when running it directly, the Windows .exe file can be placed in any folder and then ran, it will also auto create the needed directories and files on first run.
 
 This is a simple Flask web server that scans your Clone Hero song directory and populates a nice catalogue with A-Z jump list,
 arrow key scrolling (for older touch devices that do not support drag to scroll), sort by Artist or Song, in Artist view it will
