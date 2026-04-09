@@ -1,0 +1,8 @@
+{
+    "library_path": "C:/Clone Hero Songs",
+    "port": 80,
+    "exclude_paths": [
+        "Guitar Hero/Guitar Hero II",
+        "Guitar Hero/Guitar Hero III"
+    ]
+}
