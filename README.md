@@ -1,8 +1,9 @@
 This app requires flask and pillow be installed with pip or with "python -m pip install flask pillow" from command prompt, this app was written in python version 3.11.7.
+I recommend installing this in C:\Python\CloneHeroCatalogue for best results.
 
 This is a simple Flask web server that scans your Clone Hero song directory and populates a nice catalogue with A-Z jump list,
 arrow key scrolling (for older touch devices that do not support drag to scroll), sort by Artist or Song, in Artist view it will
-let you clikc each artist to view what songs per artist, in Title view it lets you see all the songs in alphabetical order.
+let you click each artist to view what songs per artist, in Title view it lets you see all the songs in alphabetical order.
 Also has a "Request" function so you can add song requests as either a reminder for yourself or as a way for friends to request
 songs when they come play. It populates a json file in the root directory of the script.
 
