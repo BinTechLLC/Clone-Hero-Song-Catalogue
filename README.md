@@ -10,7 +10,7 @@ songs when they come play. It populates a json file in the root directory of the
 On first run it will create all the default directories and files in the scripts root folder. It will then prompt you to select
 the Clone Hero song folder. It will then scan for all the songs while also converting any "album.jpg" or "album.jpeg" files to "album.png"
 while leaving the original intact, this is for he Flask server to generate the album covers in the web interfafce. Once that is done, it
-starts a web server on port 5000 of the devices local IP address.
+starts a web server on port 80 of the devices local IP address.
 
 Settings in the config.json include changing the port number, the songs directory path, and you can also add folder exclusions by adding 
 
